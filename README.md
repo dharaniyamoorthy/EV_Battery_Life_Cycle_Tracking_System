@@ -12,7 +12,7 @@ Objectives:
   Deploy TinyML models on ESP32 for on-device prediction
   Improve battery lifespan and reduce maintenance costs in budget-friendly EVs
 
-System Architecture: 
+System Architecture:   
    Sensing Layer:
       INA219 sensor for voltage and current measurement
       DS18B20 sensor for battery temperature monitoring
